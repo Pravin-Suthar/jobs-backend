@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "build": "node server.js",
     "start": "node server.js",
     "dev": "node server.js"
   },
